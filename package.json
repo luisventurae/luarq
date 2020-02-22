@@ -1,6 +1,6 @@
 {
   "name": "luarq",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -16,14 +16,14 @@
   "author": "Luis Ventura <luis@buzca.pe>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luisventurae/luarq/rest/issues"
+    "url": "https://github.com/luisventurae/luarq/issues"
   },
   "_moduleAliases": {
     "App": "./app/",
     "Start": "./start/",
     "Ctrl": "./app/Controllers/"
   },
-  "homepage": "https://github.com/luisventurae/luarq/rest#readme",
+  "homepage": "https://github.com/luisventurae/luarq#readme",
   "dependencies": {
     "bcrypt": "^3.0.8",
     "cors": "^2.8.5",
